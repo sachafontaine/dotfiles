@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = sachafontaine92500@gmail.com
+	name = Sacha Fontaine
